@@ -87,10 +87,10 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-![image](https://user-images.githubusercontent.com/94219798/170915748-5dbb93f5-bb34-4c15-b7a4-2986d4877136.png)
-![image](https://user-images.githubusercontent.com/94219798/170915752-c9dac92e-08a5-44f5-ae20-c2b89f259457.png)
-![image](https://user-images.githubusercontent.com/94219798/170915769-e73f2508-79df-4389-836d-2f11fc453bbb.png)
-![image](https://user-images.
+![image](https://user-images.githubusercontent.com/94219798/170916255-2b9313b3-7003-45b0-af29-0ea1e9eb6f3d.png)
+![image](https://user-images.githubusercontent.com/94219798/170916273-4f32471d-ec85-4068-be76-ee7975d71d74.png)
+![image](https://user-images.githubusercontent.com/94219798/170916282-36bacb69-cc08-4723-a0f4-32166a36199a.png)
+![image](https://user-images.githubusercontent.com/94219798/170916286-74f5dbef-7892-43d4-a641-f31082f83909.png)
 
 ### TRUTH TABLE 
 ![image](https://user-images.githubusercontent.com/94219798/170915794-7f0dd830-b58c-4e42-9c4f-8cda27cb58b5.png)
